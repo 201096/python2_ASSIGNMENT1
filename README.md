@@ -15,8 +15,14 @@ As database Postgresql needs to be used
 Use authentication module provided by Django
 <img width="774" alt="image" src="https://user-images.githubusercontent.com/79573421/150392390-e966623e-9dbd-4452-9155-a32ab03f77b9.png">
 
+login page
+
 ![image](https://user-images.githubusercontent.com/79573421/151315350-43679453-d27c-41ed-831a-d91eba51b279.png)
 
+registration page
+
 ![image](https://user-images.githubusercontent.com/79573421/151315404-ee402386-cc8e-4889-8bcd-22b7f1f45ca0.png)
+
+index page
 
 ![image](https://user-images.githubusercontent.com/79573421/151315418-db47b78b-deed-4009-9d66-76292bdc3fb1.png)
